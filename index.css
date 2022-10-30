@@ -92,7 +92,7 @@ body{
     background-color: violet;
     border-radius: 25px;
     height: 40px;
-    width: 80px;
+    width: 120px;
     box-shadow: 0 4px 8px 0 violet; /* this adds the "card" effect */
     border: none;
     text-align: center;
