@@ -95,6 +95,7 @@ body{
     width: 80px;
     box-shadow: 0 4px 8px 0 violet; /* this adds the "card" effect */
     border: none;
+    text-align: center;
   }
   .fbtn a{
     text-decoration: none;
